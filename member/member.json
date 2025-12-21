@@ -86,7 +86,7 @@
     "工作地址": "BGI Research, Shenzhen",
     "照片地址": "images/xiaowa.png",
     "教育经历": [
-      {"学位": "Bachelor's", "学校": "XX University"},
+      {"学位": "Bachelor's", "学校": "Northeast Forestry University"},
       {"学位": "Master's Student", "学校": "University of Chinese Academy of Sciences"}
     ],
     "工作经历": [
@@ -113,20 +113,6 @@
     "身份标签": "硕士"
   },
   {
-    "姓名": "Li Yiming",
-    "最高学位": "Master's",
-    "职务": "Assistant Research Fellow", 
-    "email": "liyiming1@genomics.cn",
-    "工作地址": "BGI Research, Shenzhen", 
-    "照片地址": "images/李一鸣.jpg", 
-    "教育经历": [
-      {"学位": "Bachelor's", "学校": "Central South University"}
-    ],
-    "工作经历": [], 
-    "研究兴趣": [], 
-    "身份标签": "职工" 
-  },
-  {
     "姓名": "Xu Demin",
     "最高学位": "Ph.D.",
     "职务": "Associate Research Fellow", 
@@ -137,6 +123,35 @@
       {"学位": "Ph.D.", "学校": "University of Science and Technology of China"},
       {"学位": "Bachelor's", "学校": "University of Electronic Science and Technology of China"}
     ], 
+    "工作经历": [], 
+    "研究兴趣": [], 
+    "身份标签": "职工" 
+  },
+    {
+    "姓名": "Lan Xinran",
+    "最高学位": "Ph.D.",
+    "职务": "Associate Research Fellow", 
+    "email": "lanxinran@genomics.cn",
+    "工作地址": "BGI Research, Shenzhen", 
+    "照片地址": "images/兰欣然.jpg", 
+    "教育经历": [
+      {"学位": "Ph.D.", "学校": "Beijing Normal University"},
+      {"学位": "Bachelor's", "学校": "Shandong University"}
+    ], 
+    "工作经历": [], 
+    "研究兴趣": [], 
+    "身份标签": "职工" 
+  },
+   {
+    "姓名": "Li Yiming",
+    "最高学位": "Master's",
+    "职务": "Assistant Research Fellow", 
+    "email": "liyiming1@genomics.cn",
+    "工作地址": "BGI Research, Shenzhen", 
+    "照片地址": "images/李一鸣.jpg", 
+    "教育经历": [
+      {"学位": "Bachelor's", "学校": "Central South University"}
+    ],
     "工作经历": [], 
     "研究兴趣": [], 
     "身份标签": "职工" 
@@ -162,7 +177,7 @@
     "职务": "Joint Training Student", 
     "email": "chenyuting@genomics.cn",
     "工作地址": "BGI Research, Shenzhen", 
-    "照片地址": "images/田梦凡.jpg",
+    "照片地址": "images/陈玉婷.jpg",
     "教育经历": [
       {"学位": "Bachelor's", "学校": "Dalian University of Technology"},
       {"学位": "Master's Student", "学校": "University of Chinese Academy of Sciences"} 
@@ -173,3 +188,4 @@
   }
 
 ]
+
