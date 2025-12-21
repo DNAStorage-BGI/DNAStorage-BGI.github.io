@@ -69,13 +69,14 @@
     "工作地址": "BGI Research, Shenzhen",
     "照片地址": "images/韩涛.jpg",
     "教育经历": [
-      {"学位": "Undergraduate Student", "学校": "South China University of Technology"}
+      {"学位": "Bachelor's", "学校": "South China University of Technology"},
+      {"学位": "Ph.D. Student", "学校": "University of Chinese Academy of Sciences"}
     ],
     "工作经历": [
-      {"机构": "BGI Research, Shenzhen", "职务": "Visiting Student", "时间": "2025-01 to Present"}
+      {"机构": "BGI Research, Shenzhen", "职务": "Joint Training Student", "时间": "2025-01 to Present"}
     ],
     "研究兴趣": [],
-    "身份标签": "客座学生"
+    "身份标签": "博士"
   },
   {
     "姓名": "Yin Zhuoxiaowa",
@@ -119,8 +120,7 @@
     "工作地址": "BGI Research, Shenzhen", 
     "照片地址": "images/李一鸣.jpg", 
     "教育经历": [
-      {"学位": "Bachelor's", "学校": "XX University"},
-      {"学位": "Master's", "学校": "XX University"} 
+      {"学位": "Bachelor's", "学校": "Central South University"}
     ],
     "工作经历": [], 
     "研究兴趣": [], 
@@ -134,9 +134,8 @@
     "工作地址": "BGI Research, Shenzhen", 
     "照片地址": "images/徐德敏.jpg", 
     "教育经历": [
-      {"学位": "Ph.D.", "学校": "XX University"},
-      {"学位": "Master's", "学校": "XX University"},
-      {"学位": "Bachelor's", "学校": "XX University"}
+      {"学位": "Ph.D.", "学校": "University of Science and Technology of China"},
+      {"学位": "Bachelor's", "学校": "University of Electronic Science and Technology of China"}
     ], 
     "工作经历": [], 
     "研究兴趣": [], 
@@ -150,11 +149,27 @@
     "工作地址": "BGI Research, Shenzhen", 
     "照片地址": "images/田梦凡.jpg",
     "教育经历": [
-      {"学位": "Bachelor's", "学校": "XX University"},
+      {"学位": "Bachelor's", "学校": "Shandong University"},
+      {"学位": "Master's Student", "学校": "University of Chinese Academy of Sciences"} 
+    ],
+    "工作经历": [], 
+    "研究兴趣": [], 
+    "身份标签": "硕士" 
+  },
+    {
+    "姓名": "Chen Yuting",
+    "最高学位": "Master's", 
+    "职务": "Joint Training Student", 
+    "email": "chenyuting@genomics.cn",
+    "工作地址": "BGI Research, Shenzhen", 
+    "照片地址": "images/田梦凡.jpg",
+    "教育经历": [
+      {"学位": "Bachelor's", "学校": "Dalian University of Technology"},
       {"学位": "Master's Student", "学校": "University of Chinese Academy of Sciences"} 
     ],
     "工作经历": [], 
     "研究兴趣": [], 
     "身份标签": "硕士" 
   }
+
 ]
